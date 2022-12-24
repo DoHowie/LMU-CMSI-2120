@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/howieli/Desktop/junit-platform-console-standalone-1.9.1.jar"
+    ]
+}
