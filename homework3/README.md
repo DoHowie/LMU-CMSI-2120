@@ -1,0 +1,1 @@
+In this assignment, Nicholas and I started with simple linked list. For each method, we first used a paper to draw diagrams and understand what the purpose for each function is. We then start to program. Same process is applied to the simple immutable list. We learned recursion and used it to create each function to make the code concise.
